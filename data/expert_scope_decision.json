@@ -1,0 +1,132 @@
+{
+  "schema_version": "geotask19.expert_scope_decision.v1",
+  "date": "2026-10-22",
+  "evidence_type": "user_reported_expert_feedback_and_user_final_clarification",
+  "independently_signed_expert_report_available": false,
+  "expert_name": null,
+  "no_expert_identity_or_signature_invented": true,
+  "resolution": "R15 is mapped into the existing M process / M1 chronology class; not S1. No new classes are added.",
+  "accepted": {
+    "proposal_id": "R15",
+    "proposal_name": "Sediment and inherited-zircon provenance",
+    "task_id": "G19-0161",
+    "o_id": "O05",
+    "class_ids": [
+      "M1"
+    ],
+    "original_o_sha256": "efcc62ab284e91041bf5abc1f0320eabd7dff5b4cb2704b43982afd58fe4d2a6",
+    "method": "Zircon LA-MC-ICP-MS U–Pb and U/Th/Pb concentration analysis",
+    "boundary": "Accept the actual U–Pb geochronology constraining host-strata depositional age. Petrography, CL imaging and Lu–Hf provenance measurements are not automatically chronology labels.",
+    "not_a_mineralization_age_claim": true
+  },
+  "rejected_proposals": [
+    {
+      "id": "R01",
+      "name": "通用研究工作流支持（不建议新增科学机制类）",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R02",
+      "name": "矿物地球化学特征与非金矿化类型识别",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R03",
+      "name": "非金元素赋存与矿物晶体化学机制",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R04",
+      "name": "非矿床风化—水文地球化学与碳收支",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R05",
+      "name": "尾矿异质性、再加工与环境风险",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R06",
+      "name": "沉积成岩硫循环与同位素分馏机制",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R07",
+      "name": "非金矿物亚固相出溶与重平衡",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R08",
+      "name": "沉积成岩与生物地球化学元素富集",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R09",
+      "name": "Non-gold mineral occurrence, incorporation and mineralization mechanisms",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R10",
+      "name": "Workflow support / material preparation (not a new scientific GeoTask)",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R11",
+      "name": "Palaeoenvironment and palaeoclimate reconstruction",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R12",
+      "name": "Supergene mineral identity and crystal-structure characterization",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R13",
+      "name": "Mineral identity and crystal-structure characterization",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R14",
+      "name": "Metamorphic P–T–t and tectonic evolution",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R16",
+      "name": "地表元素形态、迁移及环境响应",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    },
+    {
+      "id": "R17",
+      "name": "选矿冶金工艺与回收效率",
+      "decision": "do_not_expand_or_admit_on_this_proposal"
+    }
+  ],
+  "excluded_input_complete_task_ids": [
+    "G19-0011",
+    "G19-0028",
+    "G19-0030",
+    "G19-0038",
+    "G19-0039",
+    "G19-0042",
+    "G19-0063",
+    "G19-0068",
+    "G19-0075",
+    "G19-0076",
+    "G19-0077",
+    "G19-0093",
+    "G19-0096",
+    "G19-0099",
+    "G19-0116",
+    "G19-0131",
+    "G19-0140",
+    "G19-0148",
+    "G19-0149",
+    "G19-0155",
+    "G19-0259",
+    "G19-0329"
+  ],
+  "untouched": "Existing 276 sample inputs and class sets; original 353-paper OEF archive; live review submissions.",
+  "not_claimed": "No blanket expert certification of inputs, all O labels, necessary experiments, or planning quality.",
+  "source_archive_sha256": "5d946bb97473b62e7fa32b1453a4f2632a4a794315c1d88540507766f4917130",
+  "source_catalog_sha256": "37f6536c8f69b2fe3cdb1a831d0ea35a9fcc71ca279bd8ce09f997c7fce073b8"
+}

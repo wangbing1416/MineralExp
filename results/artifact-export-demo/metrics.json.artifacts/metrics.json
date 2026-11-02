@@ -1,0 +1,517 @@
+{
+  "schema_version": "geotask19.metrics.v2",
+  "n_samples": 1,
+  "n_labels": 19,
+  "submitted_predictions": 1,
+  "missing_predictions": [],
+  "missing_policy": "error",
+  "overall": {
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "tn": 17,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "label_ids": [
+      "S1",
+      "S2",
+      "S3",
+      "S4",
+      "T1",
+      "T2",
+      "T3",
+      "T4",
+      "T5",
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "M1",
+      "M2",
+      "M3",
+      "P1",
+      "P2",
+      "P3"
+    ],
+    "n_samples": 1,
+    "n_labels": 19,
+    "n_supported_labels": 2,
+    "support": 2,
+    "positive_samples": 1,
+    "predicted_positive_samples": 1,
+    "exact_matches": 1,
+    "acc": 1.0,
+    "subset_accuracy": 1.0,
+    "micro_f1": 1.0,
+    "macro_f1": 0.10526315789473684,
+    "macro": {
+      "precision": 0.10526315789473684,
+      "recall": 0.10526315789473684,
+      "f1": 0.10526315789473684
+    },
+    "macro_supported_classes_only": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "hamming_accuracy": 1.0,
+    "hamming_loss": 0.0
+  },
+  "process_average": {
+    "acc": 1.0,
+    "precision": 0.2,
+    "recall": 0.2,
+    "micro_f1": 0.2,
+    "macro_f1": 0.13333333333333333
+  },
+  "subset_accuracy": 1.0,
+  "hamming_accuracy": 1.0,
+  "hamming_loss": 0.0,
+  "sample_jaccard": 1.0,
+  "micro": {
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "tn": 17,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "macro": {
+    "precision": 0.10526315789473684,
+    "recall": 0.10526315789473684,
+    "f1": 0.10526315789473684
+  },
+  "macro_supported_classes_only": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "samples": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "per_class": {
+    "S1": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "S2": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "S3": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "S4": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "T1": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "T2": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "T3": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "T4": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "T5": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "D1": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "D2": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "D3": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "D4": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "M1": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0,
+      "support": 1,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "M2": {
+      "tp": 1,
+      "fp": 0,
+      "fn": 0,
+      "tn": 0,
+      "support": 1,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "M3": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "P1": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "P2": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "P3": {
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "per_process": {
+    "Source": {
+      "process_id": "S",
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "label_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "n_samples": 1,
+      "n_labels": 4,
+      "n_supported_labels": 0,
+      "support": 0,
+      "positive_samples": 0,
+      "predicted_positive_samples": 0,
+      "exact_matches": 1,
+      "acc": 1.0,
+      "subset_accuracy": 1.0,
+      "micro_f1": 0.0,
+      "macro_f1": 0.0,
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "macro_supported_classes_only": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hamming_accuracy": 1.0,
+      "hamming_loss": 0.0
+    },
+    "Transport": {
+      "process_id": "T",
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "label_ids": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5"
+      ],
+      "n_samples": 1,
+      "n_labels": 5,
+      "n_supported_labels": 0,
+      "support": 0,
+      "positive_samples": 0,
+      "predicted_positive_samples": 0,
+      "exact_matches": 1,
+      "acc": 1.0,
+      "subset_accuracy": 1.0,
+      "micro_f1": 0.0,
+      "macro_f1": 0.0,
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "macro_supported_classes_only": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hamming_accuracy": 1.0,
+      "hamming_loss": 0.0
+    },
+    "Deposition": {
+      "process_id": "D",
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "label_ids": [
+        "D1",
+        "D2",
+        "D3",
+        "D4"
+      ],
+      "n_samples": 1,
+      "n_labels": 4,
+      "n_supported_labels": 0,
+      "support": 0,
+      "positive_samples": 0,
+      "predicted_positive_samples": 0,
+      "exact_matches": 1,
+      "acc": 1.0,
+      "subset_accuracy": 1.0,
+      "micro_f1": 0.0,
+      "macro_f1": 0.0,
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "macro_supported_classes_only": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hamming_accuracy": 1.0,
+      "hamming_loss": 0.0
+    },
+    "Modification": {
+      "process_id": "M",
+      "tp": 2,
+      "fp": 0,
+      "fn": 0,
+      "tn": 1,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "label_ids": [
+        "M1",
+        "M2",
+        "M3"
+      ],
+      "n_samples": 1,
+      "n_labels": 3,
+      "n_supported_labels": 2,
+      "support": 2,
+      "positive_samples": 1,
+      "predicted_positive_samples": 1,
+      "exact_matches": 1,
+      "acc": 1.0,
+      "subset_accuracy": 1.0,
+      "micro_f1": 1.0,
+      "macro_f1": 0.6666666666666666,
+      "macro": {
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.6666666666666666
+      },
+      "macro_supported_classes_only": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "hamming_accuracy": 1.0,
+      "hamming_loss": 0.0
+    },
+    "Preservation": {
+      "process_id": "P",
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "tn": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "label_ids": [
+        "P1",
+        "P2",
+        "P3"
+      ],
+      "n_samples": 1,
+      "n_labels": 3,
+      "n_supported_labels": 0,
+      "support": 0,
+      "positive_samples": 0,
+      "predicted_positive_samples": 0,
+      "exact_matches": 1,
+      "acc": 1.0,
+      "subset_accuracy": 1.0,
+      "micro_f1": 0.0,
+      "macro_f1": 0.0,
+      "macro": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "macro_supported_classes_only": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hamming_accuracy": 1.0,
+      "hamming_loss": 0.0
+    }
+  },
+  "per_sample": [
+    {
+      "task_id": "G19-0002",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "exact_match": 1,
+      "jaccard": 1.0,
+      "gold": [
+        "M1",
+        "M2"
+      ],
+      "predicted": [
+        "M1",
+        "M2"
+      ],
+      "missed": [],
+      "extra": []
+    }
+  ],
+  "zero_division": 0,
+  "empty_empty_jaccard": 1,
+  "metric_definitions": {
+    "acc": "Subset accuracy: exact equality of gold and predicted label sets after projection to group labels; all samples retained, including empty/empty matches.",
+    "precision": "Micro precision: sum(TP) / (sum(TP) + sum(FP)) within the label group.",
+    "recall": "Micro recall: sum(TP) / (sum(TP) + sum(FN)) within the label group.",
+    "micro_f1": "2*sum(TP) / (2*sum(TP) + sum(FP) + sum(FN)); legacy f1 is the same value.",
+    "macro_f1": "Unweighted mean of per-label F1 over the fixed label group, including labels with zero support; zero division is 0.",
+    "process_average": "Unweighted mean of the five process scores, not the overall 19-label score.",
+    "support": "Number of positive sample-label pairs; positive_samples counts rows with at least one gold label in the group.",
+    "scale": "All metric scores are proportions in [0, 1], not percentages."
+  },
+  "interpretation": "Diagnostic agreement with paper-observed GeoTask categories; not expert-certified experimental necessity, plan quality, or scientific validity."
+}

@@ -1,0 +1,876 @@
+{
+  "schema_version": "geotask19.exclusion_index.v1",
+  "count": 76,
+  "records": [
+    {
+      "task_id": "G19-0001",
+      "paper_id": "MEXP-GC-ATTU-2006",
+      "title": "A lead isotope study of an Archaean gold prospect in the Attu region, Nagssugtoqidian orogen, West Greenland",
+      "doi": "10.34194/geusb.v11.4916",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0011",
+      "paper_id": "MEXP-GC-VERKHNEURMIYSKY-2019",
+      "title": "Tourmaline as an Indicator of Tin Occurrences of Cassiterite-Quartz and Cassiterite-Silicate Formations (a Case Study of the Verkhneurmiysky Ore Cluster, Far East)",
+      "doi": "10.31897/PMI.2019.1.3",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0015",
+      "paper_id": "MEXP-GC-ALSHAR-BOEV-1993-TRACE",
+      "title": "Trace elements in some minerals from Alshar Deposit",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0028",
+      "paper_id": "MEXP-GC-ISKORASFJELLET-LEHMANN-2023-PUBLIC",
+      "title": "Alkalinity generation from carbonate weathering in a silicate-dominated headwater catchment at Iskorasfjellet, northern Norway",
+      "doi": "10.5194/bg-20-3459-2023",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0030",
+      "paper_id": "MEXP-GC-CARBONATE-DISSOLUTION-BICE-2025-PUBLIC",
+      "title": "The effect of carbonate mineral additions on biogeochemical conditions in surface sediments and benthic–pelagic exchange fluxes",
+      "doi": "10.5194/bg-22-641-2025",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0038",
+      "paper_id": "MEXP-GC-TEKIROVA-NEUBECK-2021-PUBLIC",
+      "title": "δ60Ni and δ13C Composition of Serpentinites and Carbonates of the Tekirova Ophiolite, Turkey, and Meatiq Ophiolite, Egypt",
+      "doi": "10.3389/feart.2021.651967",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0039",
+      "paper_id": "MEXP-GC-CANTUNG-SURRETTE-2024-PUBLIC",
+      "title": "Geochemical and mineralogical heterogeneity of the Cantung mine tailings: implications for remediation and reprocessing",
+      "doi": "10.3389/fgeoc.2024.1392021",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0042",
+      "paper_id": "MEXP-GC-CANOL-GREMA-2022-PUBLIC",
+      "title": "The Formation of Highly Positive δ34S Values in Late Devonian Mudstones: Microscale Analysis of Pyrite (δ34S) and Barite (δ34S, δ18O) in the Canol Formation (Selwyn Basin, Canada)",
+      "doi": "10.3389/feart.2021.784824",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0063",
+      "paper_id": "GEOCHEM-USA-HAYES-2023-GE-ZNS",
+      "title": "A novel non-destructive workflow for examining germanium and co-substituents in ZnS",
+      "doi": "10.3389/feart.2023.939700",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0068",
+      "paper_id": "GEOCHEM-AUSTRALIA-COOK-2022-OLYMPIC-REE",
+      "title": "Micron- to atomic-scale investigation of rare earth elements in iron oxides",
+      "doi": "10.3389/feart.2022.967189",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0075",
+      "paper_id": "MEXP-GC-APUSENI-NICULA-2021-PUBLIC",
+      "title": "Geochemical Features of the Thermal and Mineral Waters From the Apuseni Mountains (Romania)",
+      "doi": "10.3389/feart.2021.648179",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0076",
+      "paper_id": "MEXP-GC-ARCTIC-BANESCHI-2026-PUBLIC",
+      "title": "Strontium and boron isotope fingerprints reveal marine and crustal controls on chemistry of Arctic meltwaters",
+      "doi": "10.3389/feart.2026.1829934",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0077",
+      "paper_id": "MEXP-GC-ZHARKENT-KOZHAGULOVA-2023-PUBLIC",
+      "title": "Geological controls on the geothermal system and hydrogeochemistry of the deep low-salinity Upper Cretaceous aquifers in the Zharkent (eastern Ily) Basin, south-eastern Kazakhstan",
+      "doi": "10.3389/feart.2023.1212064",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0093",
+      "paper_id": "MEXP-GC-PISEK-CERNY-2007-PUBLIC",
+      "title": "Subsolidus behavior of niobian rutile from the Písek region, Czech Republic: a model for exsolution in W- and Fe 2+ >>Fe 3+ -rich phases",
+      "doi": "10.3190/jgeosci.008",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0096",
+      "paper_id": "MEXP-GC-FINLAND-SARALA-2026-PUBLIC",
+      "title": "On-site geochemical and indicator mineral analytical techniques in critical raw-metal exploration in the glaciated terrain",
+      "doi": "10.3389/fgeoc.2026.1866020",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0099",
+      "paper_id": "MEXP-GC-GULF-FINLAND-SHULGA-2025-PUBLIC",
+      "title": "Integrated geochemical and biomarker signature of fast-growing Fe-Mn nodules from the Gulf of Finland, Baltic Sea",
+      "doi": "10.3389/fmars.2025.1717972",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0116",
+      "paper_id": "MEXP-GC-ROZALIA-W-HEMATITE-MAJZLAN-2025-PUBLIC",
+      "title": "Incorporation of W6+ into hematite (α-Fe2O3) in the form of ferberite nanolamellae",
+      "doi": "10.5194/ejm-37-101-2025",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0127",
+      "paper_id": "MEXP-GC-FRONTEIRA-HARTMANN-2023-PUBLIC-VERSION",
+      "title": "Geochemistry of coarse quartz sinter overlying an Early Cretaceous Serra Geral quartz andesite flow, Fronteira Oeste Rift, Rio Grande do Sul, Brazil",
+      "doi": "10.1590/2317-4889202320220042",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0131",
+      "paper_id": "MEXP-GC-NIYASAR-NASAB-EHYA-2019-PUBLIC-VERSION",
+      "title": "Mineralogy and magnetite trace element geochemistry of the Niyasar iron ore deposit, Esfahan Province, Iran",
+      "doi": "10.2451/2019PM838",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0140",
+      "paper_id": "MEXP-GC-TIVOLI-MANCINI-2024-PENDING",
+      "title": "Using stable isotopes in deciphering climate changes from travertine deposits: the case of the Lapis Tiburtinus succession (Acque Albule Basin, Tivoli, Central Italy)",
+      "doi": "10.3389/feart.2024.1355693",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0147",
+      "paper_id": "MEXP-GC-LIBA-HUANG-2000-PENDING",
+      "title": "甘肃李坝金矿床地质特征及成因研究",
+      "doi": "10.16111/j.0258-7106.2000.02.002",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0148",
+      "paper_id": "MEXP-GC-TSUMEB-KARLSEIFERTITE-KAMPF-2024-PENDING",
+      "title": "Karlseifertite, Pb(Ga2Ge)(AsO4)2(OH)6, a new dussertite-group mineral, from Tsumeb, Namibia",
+      "doi": "10.5194/ejm-36-873-2024",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0149",
+      "paper_id": "MEXP-GC-PILANESBERGITE-DALBO-2024-PENDING",
+      "title": "Pilanesbergite: a new rock-forming mineral occurring  in nepheline syenite from the Pilanesberg  Alkaline Complex, South Africa",
+      "doi": "10.5194/ejm-36-73-2024",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0155",
+      "paper_id": "MEXP-GC-OLKILUOTO-ENGSTROM-2025-PUBLIC",
+      "title": "Insights into the tectonic evolution of the Svecofennian orogeny based on in situ Lu–Hf dating of garnet and apatite from Olkiluoto, southwestern Finland",
+      "doi": "10.5194/se-16-97-2025",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0165",
+      "paper_id": "MEXP-GC-ZHAISHANG-NATIVEGOLD-LIU-2010-PENDING",
+      "title": "甘肃礼县-岷县成矿带西段寨上金矿床中自然金的发现及成因意义",
+      "doi": "10.3969/j.issn.1671-2552.2010.01.014",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0171",
+      "paper_id": "MEXP-GC-MAWU-SUN-2011-PENDING",
+      "title": "甘肃岷县马坞金矿地球化学特征、控矿因素分析及找矿潜力",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0188",
+      "paper_id": "el_dorado_monserrat_1998",
+      "title": "Características geoquímicas de la mineralización epitermal del área El Dorado-Monserrat, Provincia de Santa Cruz, Argentina",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0214",
+      "paper_id": "ZHAISHANG_LIU_2005_GEOLOGY",
+      "title": "甘肃岷县寨上金矿床地质特征及成因初探",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0223",
+      "paper_id": "CAPILLITAS_MARQUEZ_2020",
+      "title": "Indium-bearing paragenesis from the Nueva Esperanza and Restauradora veins, Capillitas mine, Argentina",
+      "doi": "10.3190/jgeosci.304",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0225",
+      "paper_id": "ZHAISHANG_LIU_2015",
+      "title": "Geological and geochemical characteristics and formation mechanisms of the Zhaishang Carlin-like type gold deposit, western Qinling Mountains, China",
+      "doi": "10.1016/j.oregeorev.2014.07.016",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0231",
+      "paper_id": "ZHAISHANG_LIU_2010_METALLOGENIC_MECHANISM",
+      "title": "甘肃寨上金矿床成矿特征与形成机理",
+      "doi": "10.16111/j.0258-7106.2010.01.014",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0234",
+      "paper_id": "ZHAISHANG_WANG_METALLOGENY_2008",
+      "title": "甘肃省岷县寨上金矿床成矿规律与找矿方向研究",
+      "doi": "10.16111/j.0258-7106.2008.s1.028",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0235",
+      "paper_id": "ZHAISHANG_LIU_2008_MULTIMETAL_ALLOYS",
+      "title": "甘肃寨上金矿床中Cu-Ni-Zn-Sn-Fe多金属互化物、S合金矿物的发现及其地质意义",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0237",
+      "paper_id": "LIBA_ZHONGCHUAN_WANG_CHENG_2002",
+      "title": "甘肃省礼县中川地区李坝式金矿床载金矿物地球化学特征及矿床成因意义",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0242",
+      "paper_id": "ZHAISHANG_LIU_2010_MINERAL_ASSOCIATION",
+      "title": "甘肃寨上金矿床矿物组成特征与矿质沉淀机理",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0245",
+      "paper_id": "SUOLONG_DENG_ZHAO_2020_DATABASE",
+      "title": "甘肃岷县寨上—马坞金矿锁龙幅1∶50 000矿产地质图数据库",
+      "doi": "10.12029/gc2020Z212",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0246",
+      "paper_id": "ZHAISHANG_LIU_SULFOSALTS_2010",
+      "title": "西秦岭寨上特大型金矿床硫盐矿物特征及其成因意义",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0252",
+      "paper_id": "ZHAISHANG_PENG_2007_MECHANISM",
+      "title": "寨上金矿区成矿机制及成矿预测",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0255",
+      "paper_id": "JINSHAN_TANG_2004",
+      "title": "甘肃礼县金山金矿床地质地球化学特征及矿物组成",
+      "doi": "10.16042/j.cnki.cn62-1053/tf.2004.02.003",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0259",
+      "paper_id": "ZHAISHANG_FENG_ARSENIC_SEDIMENT_2011",
+      "title": "寨上金矿矿区河流沉积物中砷的形态分析",
+      "doi": "10.16258/j.cnki.1674-5906.2011.04.011",
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0263",
+      "paper_id": "DAIJIAZHUANG_ZHANG_2007_PB_S_ISOTOPES",
+      "title": "西秦岭代家庄中泥盆统沉积盆地铅锌矿同位素地质特征",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0270",
+      "paper_id": "ZHAISHANG_JIANG_2003_GEOPHYSICS_GEOCHEMISTRY",
+      "title": "甘肃寨上金矿区地球物理和地球化学特征",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0271",
+      "paper_id": "ZHAISHANG_GUO_2003_CARLIN_GEOLOGY",
+      "title": "甘肃寨上卡林型金矿床地质特征与控矿因素",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0272",
+      "paper_id": "BAIJIAZHUANG_XU_2006_GROUP",
+      "title": "甘肃省岷县—礼县一带柏家庄岩体群成岩成矿特点及成矿机制探讨",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0278",
+      "paper_id": "BEIJINSHAN_HU_2010_GEOLOGY_GENESIS",
+      "title": "甘肃北金山金矿地质特征及成因",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0279",
+      "paper_id": "LUERBA_DING_2014_REPRINT",
+      "title": "甘肃鹿儿坝金矿床地质特征及找矿标志",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0280",
+      "paper_id": "MAWU_XIN_2015_GEOLOGY_PROSPECTS",
+      "title": "甘肃马坞金矿床地质特征及找矿前景探讨",
+      "doi": "10.11872/j.issn.1005-2518.2015.01.040",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0281",
+      "paper_id": "MAWU_CUI_2010_GEOLOGICAL_MODEL",
+      "title": "甘肃省岷县马坞金矿地质特征及成矿模型",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0282",
+      "paper_id": "MAWU_ZHAO_2009_STRUCTURAL_ISOTOPES",
+      "title": "甘肃岷县马坞金矿地质特征与构造控矿模式",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0284",
+      "paper_id": "MAWU_CUI_LIU_2010_GEOLOGY_PROSPECTS",
+      "title": "甘肃省岷县马坞金矿地质特征及找矿方向",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0285",
+      "paper_id": "LUERBA_LIU_2014_GEOLOGY_ISOTOPES",
+      "title": "西秦岭岷县鹿儿坝金矿床地质特征及找矿远景",
+      "doi": "10.11792/hj20141105",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0286",
+      "paper_id": "LUERBA_SI_LI_2000",
+      "title": "鹿儿坝金矿床地质特征及控矿因素分析",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0287",
+      "paper_id": "LUERBA_WU_WEI_1998_GEOLOGY_PROSPECTING",
+      "title": "鹿儿坝金矿床地质特征与找矿标志",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0288",
+      "paper_id": "JINSHAN_YANG_CHEN_2004_GENESIS",
+      "title": "甘肃礼县金山金矿床成矿地质特征及成因探讨",
+      "doi": "10.16042/j.cnki.cn62-1053/tf.2004.02.007",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0289",
+      "paper_id": "JINSHAN_FANG_2005_GENESIS",
+      "title": "甘肃金山金矿床地质特征及成因探讨",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0290",
+      "paper_id": "LIBA_WANG_FUTIAN_2003",
+      "title": "李坝微细粒浸染型金矿矿床成因探讨",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0292",
+      "paper_id": "LIBA_CHENG_2003_MINERALIZATION_TYPE",
+      "title": "李坝式金矿床成矿作用及矿床类型探讨",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0294",
+      "paper_id": "LIBA_CHENG_2005_ORE_FACTORS",
+      "title": "西秦岭李坝式金矿床成矿要素分析",
+      "doi": "10.13885/j.issn.0455-2059.2005.02.001",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0295",
+      "paper_id": "LUERBA_LIDAMIN_2019",
+      "title": "甘肃鹿儿坝金矿地质特征及矿床模式研究",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0301",
+      "paper_id": "ZHAISHANG_LIAO_2009_GEOLOGY_GENESIS",
+      "title": "甘肃寨上金矿床地质特征与成因分析",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0308",
+      "paper_id": "ZHAISHANG_SUN_2013_SOUTH_BELT_INDICATORS",
+      "title": "寨上金矿床南矿段地质特征及找矿标志",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0313",
+      "paper_id": "ZHAISHANG_HAO_2025_SIGNS",
+      "title": "西秦岭寨上金矿矿床地质特征及找矿标志",
+      "doi": "10.19968/j.cnki.hnkj.1003-5168.2025.09.011",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0314",
+      "paper_id": "ZHAISHANG_WANG_2022_MINERAL_RESOURCE_POTENTIAL",
+      "title": "甘肃省寨上金矿成矿规律及矿产资源潜力评价",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis",
+        "available_conditions"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0315",
+      "paper_id": "ZHAISHANG_YUE_2013_COMPREHENSIVE_MODEL",
+      "title": "甘肃寨上金矿综合信息找矿模型研究",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0318",
+      "paper_id": "LIBA_CHEN_1998_GEOLOGICAL_GEOPHYSICAL_MODEL",
+      "title": "李坝金矿地质-地球物理找矿模型及远景评价",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0322",
+      "paper_id": "DAIJIAZHUANG_YANG_2012",
+      "title": "甘肃代家庄铅锌矿成矿特征",
+      "doi": "10.16111/j.0258-7106.2012.s1.230",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0323",
+      "paper_id": "LIBA_LU_2000",
+      "title": "甘肃李坝金矿床的地球化学特征",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0329",
+      "paper_id": "LUERBA_ORE_DRESSING_ZHANG_2004",
+      "title": "鹿儿坝锑金矿矿石选矿方法的探讨",
+      "doi": null,
+      "missing_fields": [],
+      "reason_code": "expert_rejected_scope_expansion",
+      "has_in_scope_labels_in_local_archive": false,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0330",
+      "paper_id": "ZHAISHANG_TAO_2025",
+      "title": "西秦岭寨上超大型金矿地质特征及成矿规律",
+      "doi": "10.20156/j.cnki.2097-2490.2025.04.007",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0332",
+      "paper_id": "BEIJINSHAN_WU_LI_2014",
+      "title": "甘肃北金山金矿地质特征及成矿远景浅析",
+      "doi": "10.11872/j.issn.1005-2518.2014.03.030",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0333",
+      "paper_id": "JINSHAN_WU_WANG_DUAN_2005",
+      "title": "甘肃金山金矿床地质特征及其找矿意义",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0338",
+      "paper_id": "LIBA_LIU_YINTAI_2019_GENESIS",
+      "title": "甘肃李坝金矿床成矿特征与成因探讨",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0339",
+      "paper_id": "LIBA_LIU_2019_ENRICHMENT",
+      "title": "甘肃李坝金矿床矿化富集规律及找矿标志研究",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0340",
+      "paper_id": "LUERBA_LI_2014_FAULT_CONTROL",
+      "title": "甘肃鹿儿坝金矿床断裂构造控矿特征",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0342",
+      "paper_id": "SUOLONG_SUN_2019_DEEP_METALLOGENY",
+      "title": "西秦岭锁龙金矿深部成矿特征及找矿思路",
+      "doi": null,
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    },
+    {
+      "task_id": "G19-0348",
+      "paper_id": "LIBA_PU_2018_OCCURRENCE",
+      "title": "甘肃省礼县李坝金矿床地质特征及矿体赋存规律",
+      "doi": "10.16042/j.cnki.cn62-1053/tf.2018.05.019",
+      "missing_fields": [
+        "hypothesis"
+      ],
+      "reason_code": "missing_source_grounded_inputs",
+      "has_in_scope_labels_in_local_archive": true,
+      "included_in_benchmark": false
+    }
+  ],
+  "policy": "Index only. Rejected-case inputs, O and candidate classes are not included as evaluation records; full source archive remains local."
+}

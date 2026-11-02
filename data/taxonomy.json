@@ -1,0 +1,124 @@
+{
+  "schema_version": "geotask19.taxonomy.v2",
+  "source": "Text-Eversion.docx, Table 3",
+  "source_sha256": "a779a7de905b26304527decc89585380e0fb60ec91d2137d2e081a19c2a89c3d",
+  "classes": [
+    {
+      "ID": "S1",
+      "Process": "Source",
+      "GeoTask": "Magma sources and evolution",
+      "Level": "L1-L2"
+    },
+    {
+      "ID": "S2",
+      "Process": "Source",
+      "GeoTask": "Magmatic metallogenic potential",
+      "Level": "L0-L2"
+    },
+    {
+      "ID": "S3",
+      "Process": "Source",
+      "GeoTask": "Sources of metals and sulfur",
+      "Level": "L1-L4"
+    },
+    {
+      "ID": "S4",
+      "Process": "Source",
+      "GeoTask": "Metamorphic fluids and metal release",
+      "Level": "L2-L4"
+    },
+    {
+      "ID": "T1",
+      "Process": "Transport",
+      "GeoTask": "Ore-fluid sources",
+      "Level": "L1-L3"
+    },
+    {
+      "ID": "T2",
+      "Process": "Transport",
+      "GeoTask": "Fluid evolution and episodes",
+      "Level": "L1-L3"
+    },
+    {
+      "ID": "T3",
+      "Process": "Transport",
+      "GeoTask": "Fluid pressure, temperature, and volatiles",
+      "Level": "L0-L2"
+    },
+    {
+      "ID": "T4",
+      "Process": "Transport",
+      "GeoTask": "Metal loading and transport",
+      "Level": "L1-L4"
+    },
+    {
+      "ID": "T5",
+      "Process": "Transport",
+      "GeoTask": "Structurally controlled fluid pathways",
+      "Level": "L0-L3"
+    },
+    {
+      "ID": "D1",
+      "Process": "Deposition",
+      "GeoTask": "Gold occurrence mechanisms",
+      "Level": "L0-L2"
+    },
+    {
+      "ID": "D2",
+      "Process": "Deposition",
+      "GeoTask": "Gold precipitation reactions",
+      "Level": "L1-L4"
+    },
+    {
+      "ID": "D3",
+      "Process": "Deposition",
+      "GeoTask": "Element transfer and enrichment efficiency",
+      "Level": "L1-L3"
+    },
+    {
+      "ID": "D4",
+      "Process": "Deposition",
+      "GeoTask": "Mineralization zoning and spatial response",
+      "Level": "L0-L3"
+    },
+    {
+      "ID": "M1",
+      "Process": "Modification",
+      "GeoTask": "Mineralization ages and event sequence",
+      "Level": "L0-L3",
+      "definition": "年代学与事件序列。本版本按专家反馈也接受以碎屑锆石 U–Pb 测年约束赋矿地层沉积年龄的任务；不把岩相、CL 影像或仅作物源示踪的 Lu–Hf 测量自动归为测年。",
+      "scope_note": "This explicit revision supplements the original class title; depositional age is not asserted to be ore-forming age."
+    },
+    {
+      "ID": "M2",
+      "Process": "Modification",
+      "GeoTask": "Multistage hydrothermal overprinting",
+      "Level": "L1-L3"
+    },
+    {
+      "ID": "M3",
+      "Process": "Modification",
+      "GeoTask": "Gold remobilization and reprecipitation",
+      "Level": "L2-L4"
+    },
+    {
+      "ID": "P1",
+      "Process": "Preservation",
+      "GeoTask": "Post-ore cooling and exhumation",
+      "Level": "L1-L3"
+    },
+    {
+      "ID": "P2",
+      "Process": "Preservation",
+      "GeoTask": "Supergene modification and secondary enrichment",
+      "Level": "L0-L3"
+    },
+    {
+      "ID": "P3",
+      "Process": "Preservation",
+      "GeoTask": "Preservation and prediction of concealed mineralization",
+      "Level": "L0-L4"
+    }
+  ],
+  "scope_revision": "2026-10-22 user-reported expert scope decision; original 19 IDs/names preserved."
+}

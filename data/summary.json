@@ -1,0 +1,53 @@
+{
+  "schema_version": "geotask19.github_summary.v1",
+  "release_version": "0.2.0",
+  "release_state": "github_submission_candidate_not_uploaded",
+  "evaluable_samples": 277,
+  "previous_evaluable_samples": 276,
+  "newly_admitted_task_ids": [
+    "G19-0161"
+  ],
+  "released_scored_O": 1572,
+  "full_O_in_selected_local_source_records": 1928,
+  "omitted_workflow_or_out_of_scope_O": 356,
+  "source_archive_samples": 353,
+  "source_archive_sha256": "5d946bb97473b62e7fa32b1453a4f2632a4a794315c1d88540507766f4917130",
+  "exclusion_index_samples": 76,
+  "excluded_missing_inputs": 54,
+  "excluded_complete_input_scope_rejected": 22,
+  "label_count": 19,
+  "new_classes_added": 0,
+  "expert_scope_decision": "R15 / G19-0161 / O05 -> M1 (not S1)",
+  "class_counts": {
+    "S1": 50,
+    "S2": 19,
+    "S3": 128,
+    "S4": 0,
+    "T1": 95,
+    "T2": 95,
+    "T3": 99,
+    "T4": 11,
+    "T5": 57,
+    "D1": 64,
+    "D2": 23,
+    "D3": 21,
+    "D4": 94,
+    "M1": 108,
+    "M2": 55,
+    "M3": 1,
+    "P1": 1,
+    "P2": 6,
+    "P3": 41
+  },
+  "classes_without_positive_examples": [
+    "S4"
+  ],
+  "original_276_input_and_class_sets_unchanged": true,
+  "all_samples_expert_certified": true,
+  "expert_review_status": "expert_reviewed_gold",
+  "expert_review_evidence": "Maintainer confirmation on 2026-10-27; see expert_review_status.json. No signed report or independent agreement statistics supplied.",
+  "historical_extraction_status_fields_preserved": true,
+  "actual_model_results_included": true,
+  "model_result_scope": "One illustrative gpt-6.1-sol native-subagent run on G19-0002; not a full-benchmark result or OpenRouter run. See examples/model_runs/gpt61_sol_G19_0002_20261027/.",
+  "license": "No open-source license granted. No publication or upload performed."
+}

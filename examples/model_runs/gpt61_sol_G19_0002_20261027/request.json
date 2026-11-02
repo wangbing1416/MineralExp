@@ -1,0 +1,268 @@
+{
+  "protocol": "geotask19.harness.v2",
+  "task_id": "G19-0002",
+  "input": {
+    "hypothesis": "白云鄂博矿体可能源于沉积同生、岩浆碳酸岩或后生热液交代，不同解释预期不同形成时序。",
+    "initial_information": "白云鄂博已有矿体与多种成因解释，区域广布海西期花岗岩；已有解释对沉积、岩浆及热液作用的关系认识不同。",
+    "available_conditions": "可利用白云鄂博矿区现场准入及矿山地质人员协作取得的矿石和围岩标本。"
+  },
+  "instruction": "Plan experiments to test the stated hypothesis using the supplied initial information and available conditions. Return one JSON object matching response_schema. Give exactly one class_predictions entry for each of the 19 GeoTask classes: class_id, selected (a boolean), rationale (a concise justification for selecting or excluding this class), and experiments. labels must contain exactly the IDs whose selected value is true. Do not select every class by default. For each selected class, provide at least one concrete experiment with all seven fields: name; design (materials or samples, method, procedure, comparisons and quality controls); why_needed (why this experiment is needed for this hypothesis under the given conditions); expected_evidence (the observations or measurements to obtain, NOT fabricated results); supports_hypothesis_if and weakens_hypothesis_if (conditional interpretation criteria, including competing explanations); and limitations (assumptions, confounds, unverified prerequisites and what the experiment cannot establish). If a direct supporting or weakening criterion is not applicable, explain why in that field. Do not invent known measurements, sample availability, equipment or budgets; identify additional requirements as proposals, not given facts. For unselected classes, use experiments=[] and explain exclusion in rationale; do not invent irrelevant experiments. An optional plan string may summarize ordering or shared experiments. Classification scores use labels only; designs, rationales and evidence statements are retained for later judging and error analysis, not scored now.",
+  "label_space": [
+    {
+      "id": "S1",
+      "process": "Source",
+      "name": "Magma sources and evolution"
+    },
+    {
+      "id": "S2",
+      "process": "Source",
+      "name": "Magmatic metallogenic potential"
+    },
+    {
+      "id": "S3",
+      "process": "Source",
+      "name": "Sources of metals and sulfur"
+    },
+    {
+      "id": "S4",
+      "process": "Source",
+      "name": "Metamorphic fluids and metal release"
+    },
+    {
+      "id": "T1",
+      "process": "Transport",
+      "name": "Ore-fluid sources"
+    },
+    {
+      "id": "T2",
+      "process": "Transport",
+      "name": "Fluid evolution and episodes"
+    },
+    {
+      "id": "T3",
+      "process": "Transport",
+      "name": "Fluid pressure, temperature, and volatiles"
+    },
+    {
+      "id": "T4",
+      "process": "Transport",
+      "name": "Metal loading and transport"
+    },
+    {
+      "id": "T5",
+      "process": "Transport",
+      "name": "Structurally controlled fluid pathways"
+    },
+    {
+      "id": "D1",
+      "process": "Deposition",
+      "name": "Gold occurrence mechanisms"
+    },
+    {
+      "id": "D2",
+      "process": "Deposition",
+      "name": "Gold precipitation reactions"
+    },
+    {
+      "id": "D3",
+      "process": "Deposition",
+      "name": "Element transfer and enrichment efficiency"
+    },
+    {
+      "id": "D4",
+      "process": "Deposition",
+      "name": "Mineralization zoning and spatial response"
+    },
+    {
+      "id": "M1",
+      "process": "Modification",
+      "name": "Mineralization ages and event sequence",
+      "definition": "年代学与事件序列。本版本按专家反馈也接受以碎屑锆石 U–Pb 测年约束赋矿地层沉积年龄的任务；不把岩相、CL 影像或仅作物源示踪的 Lu–Hf 测量自动归为测年。"
+    },
+    {
+      "id": "M2",
+      "process": "Modification",
+      "name": "Multistage hydrothermal overprinting"
+    },
+    {
+      "id": "M3",
+      "process": "Modification",
+      "name": "Gold remobilization and reprecipitation"
+    },
+    {
+      "id": "P1",
+      "process": "Preservation",
+      "name": "Post-ore cooling and exhumation"
+    },
+    {
+      "id": "P2",
+      "process": "Preservation",
+      "name": "Supergene modification and secondary enrichment"
+    },
+    {
+      "id": "P3",
+      "process": "Preservation",
+      "name": "Preservation and prediction of concealed mineralization"
+    }
+  ],
+  "response_schema": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "labels",
+      "class_predictions"
+    ],
+    "properties": {
+      "labels": {
+        "type": "array",
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "enum": [
+            "S1",
+            "S2",
+            "S3",
+            "S4",
+            "T1",
+            "T2",
+            "T3",
+            "T4",
+            "T5",
+            "D1",
+            "D2",
+            "D3",
+            "D4",
+            "M1",
+            "M2",
+            "M3",
+            "P1",
+            "P2",
+            "P3"
+          ]
+        }
+      },
+      "class_predictions": {
+        "type": "array",
+        "minItems": 19,
+        "maxItems": 19,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "class_id",
+            "selected",
+            "rationale",
+            "experiments"
+          ],
+          "properties": {
+            "class_id": {
+              "type": "string",
+              "enum": [
+                "S1",
+                "S2",
+                "S3",
+                "S4",
+                "T1",
+                "T2",
+                "T3",
+                "T4",
+                "T5",
+                "D1",
+                "D2",
+                "D3",
+                "D4",
+                "M1",
+                "M2",
+                "M3",
+                "P1",
+                "P2",
+                "P3"
+              ]
+            },
+            "selected": {
+              "type": "boolean"
+            },
+            "rationale": {
+              "type": "string",
+              "minLength": 1
+            },
+            "experiments": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "name",
+                  "design",
+                  "why_needed",
+                  "expected_evidence",
+                  "supports_hypothesis_if",
+                  "weakens_hypothesis_if",
+                  "limitations"
+                ],
+                "properties": {
+                  "name": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "design": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "why_needed": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "expected_evidence": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "supports_hypothesis_if": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "weakens_hypothesis_if": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "limitations": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              }
+            }
+          },
+          "allOf": [
+            {
+              "if": {
+                "properties": {
+                  "selected": {
+                    "const": true
+                  }
+                }
+              },
+              "then": {
+                "properties": {
+                  "experiments": {
+                    "minItems": 1
+                  }
+                }
+              },
+              "else": {
+                "properties": {
+                  "experiments": {
+                    "maxItems": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "plan": {
+        "type": "string"
+      }
+    }
+  }
+}

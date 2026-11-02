@@ -1,0 +1,73 @@
+{
+  "schema_version": "geotask19.github_verification.v1",
+  "kind": "data_and_software_checks_not_model_performance",
+  "unit_tests": {
+    "exit_code": 0,
+    "output": "test_envelope_does_not_relax_final_response_or_trace_structure (test_artifacts.ArtifactTests.test_envelope_does_not_relax_final_response_or_trace_structure) ... ok\ntest_fail_fast_and_continue_keep_failed_responses_and_full_denominator (test_artifacts.ArtifactTests.test_fail_fast_and_continue_keep_failed_responses_and_full_denominator) ... ok\ntest_invalid_utf8_and_nonzero_exit_keep_exact_bytes_and_error_stage (test_artifacts.ArtifactTests.test_invalid_utf8_and_nonzero_exit_keep_exact_bytes_and_error_stage) ... ok\ntest_offline_cli_saves_score_bundle_errors_and_refuses_overwrite (test_artifacts.ArtifactTests.test_offline_cli_saves_score_bundle_errors_and_refuses_overwrite) ... ok\ntest_offline_strict_failure_writes_receipt_not_fake_metrics (test_artifacts.ArtifactTests.test_offline_strict_failure_writes_receipt_not_fake_metrics) ... ok\ntest_optional_envelope_preserves_returned_trajectory_usage_and_provider_body (test_artifacts.ArtifactTests.test_optional_envelope_preserves_returned_trajectory_usage_and_provider_body) ... ok\ntest_successful_cli_exports_all_score_views_and_replay_inputs_automatically (test_artifacts.ArtifactTests.test_successful_cli_exports_all_score_views_and_replay_inputs_automatically) ... ok\ntest_timeout_partial_output_and_interrupt_checkpoint_are_saved (test_artifacts.ArtifactTests.test_timeout_partial_output_and_interrupt_checkpoint_are_saved) ... ok\ntest_cli_outputs_all_requested_scores (test_metrics.MetricsTests.test_cli_outputs_all_requested_scores) ... ok\ntest_complete_overall_and_process_metrics_hand_calculated (test_metrics.MetricsTests.test_complete_overall_and_process_metrics_hand_calculated) ... ok\ntest_duplicate_gold_and_exclusion (test_metrics.MetricsTests.test_duplicate_gold_and_exclusion) ... ok\ntest_empty_truth_policy (test_metrics.MetricsTests.test_empty_truth_policy) ... ok\ntest_false_positive_penalty (test_metrics.MetricsTests.test_false_positive_penalty) ... ok\ntest_four_of_ten_is_recall (test_metrics.MetricsTests.test_four_of_ten_is_recall) ... ok\ntest_legacy_fields_and_overall_are_identical (test_metrics.MetricsTests.test_legacy_fields_and_overall_are_identical) ... ok\ntest_macro_and_sample_average (test_metrics.MetricsTests.test_macro_and_sample_average) ... ok\ntest_missing_default_error (test_metrics.MetricsTests.test_missing_default_error) ... ok\ntest_missing_empty_applies_to_every_group (test_metrics.MetricsTests.test_missing_empty_applies_to_every_group) ... ok\ntest_no_samples_not_a_zero_score (test_metrics.MetricsTests.test_no_samples_not_a_zero_score) ... ok\ntest_perfect (test_metrics.MetricsTests.test_perfect) ... ok\ntest_process_negative_rows_still_penalize_false_positives (test_metrics.MetricsTests.test_process_negative_rows_still_penalize_false_positives) ... ok\ntest_reject_duplicates_unknowns_and_invalid_types (test_metrics.MetricsTests.test_reject_duplicates_unknowns_and_invalid_types) ... ok\ntest_zero_support_process_and_fixed_macro_denominator (test_metrics.MetricsTests.test_zero_support_process_and_fixed_macro_denominator) ... ok\ntest_cli_replays_only_scoring_not_model_generation (test_model_example.StoredNativeModelExampleTests.test_cli_replays_only_scoring_not_model_generation) ... ok\ntest_exact_allowlisted_request_and_all_19_classes (test_model_example.StoredNativeModelExampleTests.test_exact_allowlisted_request_and_all_19_classes) ... ok\ntest_metrics_recompute_against_original_dataset_gold (test_model_example.StoredNativeModelExampleTests.test_metrics_recompute_against_original_dataset_gold) ... ok\ntest_original_solver_response_is_preserved_without_answer_editing (test_model_example.StoredNativeModelExampleTests.test_original_solver_response_is_preserved_without_answer_editing) ... ok\ntest_provenance_hashes_model_backend_and_limited_scope (test_model_example.StoredNativeModelExampleTests.test_provenance_hashes_model_backend_and_limited_scope) ... ok\ntest_all_sample_request_isolation (test_release.FinalReleaseTests.test_all_sample_request_isolation) ... ok\ntest_current_expert_review_status_is_recorded_without_invented_statistics (test_release.FinalReleaseTests.test_current_expert_review_status_is_recorded_without_invented_statistics) ... ok\ntest_definition_is_common_not_task_answer (test_release.FinalReleaseTests.test_definition_is_common_not_task_answer) ... ok\ntest_no_other_scope_rejected_case_is_in_dataset (test_release.FinalReleaseTests.test_no_other_scope_rejected_case_is_in_dataset) ... ok\ntest_protocol_fixture_and_metric_sanity_not_model_result (test_release.FinalReleaseTests.test_protocol_fixture_and_metric_sanity_not_model_result) ... ok\ntest_r15_only_actual_upb_is_positive (test_release.FinalReleaseTests.test_r15_only_actual_upb_is_positive) ... ok\ntest_whole_release (test_release.FinalReleaseTests.test_whole_release) ... ok\ntest_adapter_only_receives_public_request (test_runner.RunnerTests.test_adapter_only_receives_public_request) ... ok\ntest_all_19_decisions_are_required_and_order_is_canonical (test_runner.RunnerTests.test_all_19_decisions_are_required_and_order_is_canonical) ... ok\ntest_cli_persists_structured_predictions_requests_and_raw_outputs (test_runner.RunnerTests.test_cli_persists_structured_predictions_requests_and_raw_outputs) ... ok\ntest_failed_and_invalid_responses_are_audited_without_stderr (test_runner.RunnerTests.test_failed_and_invalid_responses_are_audited_without_stderr) ... ok\ntest_invalid_taxonomy (test_runner.RunnerTests.test_invalid_taxonomy) ... ok\ntest_missing_and_excluded_are_never_sent (test_runner.RunnerTests.test_missing_and_excluded_are_never_sent) ... ok\ntest_missing_duplicate_unknown_and_inconsistent_class_predictions_fail (test_runner.RunnerTests.test_missing_duplicate_unknown_and_inconsistent_class_predictions_fail) ... ok\ntest_multiple_experiments_and_negative_only_output_are_allowed (test_runner.RunnerTests.test_multiple_experiments_and_negative_only_output_are_allowed) ... ok\ntest_narrative_content_never_changes_classification_scores (test_runner.RunnerTests.test_narrative_content_never_changes_classification_scores) ... ok\ntest_projection_is_new_and_not_mutating (test_runner.RunnerTests.test_projection_is_new_and_not_mutating) ... ok\ntest_selected_experiment_fields_and_rationales_are_preserved (test_runner.RunnerTests.test_selected_experiment_fields_and_rationales_are_preserved) ... ok\ntest_text_structure_is_checked_without_scientific_grading (test_runner.RunnerTests.test_text_structure_is_checked_without_scientific_grading) ... ok\ntest_timeout_partial_stdout_is_audited (test_runner.RunnerTests.test_timeout_partial_stdout_is_audited) ... ok\ntest_whitelist_has_no_private_content (test_runner.RunnerTests.test_whitelist_has_no_private_content) ... ok\n\n----------------------------------------------------------------------\nRan 49 tests in 2.994s\n\nOK\n"
+  },
+  "whole_release_validation": {
+    "status": "passed",
+    "evaluable_samples": 277,
+    "scored_O": 1572,
+    "excluded_records": 76,
+    "scope_rejected_cases": 22,
+    "all_requests_projection_checked": true,
+    "common_taxonomy_definition_checked": true,
+    "r15_mapped_to": "M1 / O05",
+    "new_classes_added": 0,
+    "actual_agent_or_llm_run": false,
+    "expert_review_status": "expert_reviewed_gold",
+    "expert_review_evidence": "maintainer_confirmation_in_conversation"
+  },
+  "scope_decision": "R15 / G19-0161 / O05 -> M1; 22 other candidate cases excluded",
+  "source_archive_sha256": "5d946bb97473b62e7fa32b1453a4f2632a4a794315c1d88540507766f4917130",
+  "previous_276_benchmark_sha256": "e04d81c9ddc4408a49e440feaa71493271f2978ea557a683bd6e8346b93acc30",
+  "publisher_documents_included": false,
+  "review_site_credentials_included": false,
+  "actual_agent_or_llm_performance_run": true,
+  "full_benchmark_model_performance_run": false,
+  "illustrative_model_runs": [
+    {
+      "directory": "examples/model_runs/gpt61_sol_G19_0002_20261027",
+      "model_id": "gpt-6.1-sol",
+      "backend": "native_collaboration_spawn_agent",
+      "task_id": "G19-0002",
+      "n_samples": 1,
+      "attempts": 1,
+      "not_a_full_benchmark_result": true
+    }
+  ],
+  "cli_protocol_fixture": {
+    "passed": true,
+    "samples": 277,
+    "model_used": false,
+    "fixture_predictions_not_distributed": true,
+    "protocol": "geotask19.harness.v2",
+    "all_19_class_decisions_preserved": true,
+    "requests_and_raw_outputs_recorded": true,
+    "text_quality_scored": false
+  },
+  "metrics": {
+    "schema_version": "geotask19.metrics.v2",
+    "groups": [
+      "overall",
+      "Source",
+      "Transport",
+      "Deposition",
+      "Modification",
+      "Preservation"
+    ],
+    "required_scores": [
+      "acc",
+      "macro_f1",
+      "micro_f1",
+      "precision",
+      "recall"
+    ],
+    "all_groups_use_all_samples": true,
+    "process_average_included": true
+  },
+  "all_labels_expert_certified": true,
+  "expert_review_evidence": "Maintainer confirmation on 2026-10-27; see data/expert_review_status.json. No independent agreement statistics invented.",
+  "uploaded_to_github": false
+}

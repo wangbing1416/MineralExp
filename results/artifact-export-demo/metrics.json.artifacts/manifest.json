@@ -1,0 +1,50 @@
+{
+  "schema_version": "geotask19.artifacts.manifest.v1",
+  "files": [
+    {
+      "path": "errors.jsonl",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "gold_labels.jsonl",
+      "bytes": 102,
+      "sha256": "913da58244cf407251c6b70ee65944d9f1799724ebba767478247a8d38adb133"
+    },
+    {
+      "path": "metrics.json",
+      "bytes": 10390,
+      "sha256": "7f02be5e8a8888e1e1ef9ebe02243ceff60f95a48147d2dbe27ef4b21f41117f"
+    },
+    {
+      "path": "overall.csv",
+      "bytes": 724,
+      "sha256": "6cebf62e19eff42e5975a2447c89698494c225a3bdc5cfdf6f73ff7235656523"
+    },
+    {
+      "path": "per_class.csv",
+      "bytes": 547,
+      "sha256": "5c42a43cd4285b0912672c2cda93c6c601849f174e43e0edb5b582721e850df4"
+    },
+    {
+      "path": "per_process.csv",
+      "bytes": 1388,
+      "sha256": "c7de25fc1c3403a104453395f0d51629ce4f37e2d21affb7b0d448e77d18efdf"
+    },
+    {
+      "path": "per_sample.csv",
+      "bytes": 152,
+      "sha256": "bac2287e4f59a1444b00d85f1efa7c5e3d9c20be62d3e97b50153808e15071d5"
+    },
+    {
+      "path": "predictions.jsonl",
+      "bytes": 9016,
+      "sha256": "71cbf3831abb9c7785602e76e00375bb89e4d2d456694f9206e26965a10ad0cd"
+    },
+    {
+      "path": "provenance.json",
+      "bytes": 511,
+      "sha256": "012a217850fdf13e2c0f94eec569705df5ecd6a78b574f54cf6ccdf1ea9d8340"
+    }
+  ]
+}

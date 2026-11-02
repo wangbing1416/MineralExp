@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-10-27T09:16:35.794259+00:00",
+  "source": "metrics_cli",
+  "dataset_sha256": "df4e4667b5c83fc664fa5e09548206717fd75b13ce40fa1fe9e7674f774a2bcd",
+  "predictions_sha256": "71cbf3831abb9c7785602e76e00375bb89e4d2d456694f9206e26965a10ad0cd",
+  "scorer_sha256": "bc27e4a9e697c4cb2e5d2b77a176a8fbba8c2d7753302221bb1e27d859743e6e",
+  "partial_run": false,
+  "missing_policy": "error",
+  "n_samples": 1,
+  "submitted_predictions": 1,
+  "missing_predictions": [],
+  "text_quality_scored": false
+}

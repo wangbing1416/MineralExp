@@ -1,0 +1,17 @@
+{
+  "schema_version": "geotask19.expert_review_status.v1",
+  "review_status": "expert_reviewed_gold",
+  "confirmation_date": "2026-10-27",
+  "evidence_type": "maintainer_confirmation_in_conversation",
+  "scope": "Current 277-case dataset and its reference annotations",
+  "maintainer_statement": "这个数据集我已经给地学专家审核过了，他们没有异议，可以认为是金标。",
+  "reviewer_identities": null,
+  "review_dates": null,
+  "signed_review_report_provided": false,
+  "independent_rating_records_provided": false,
+  "agreement_statistics": null,
+  "historical_extraction_fields_preserved": true,
+  "status_precedence": "This current review status supersedes historical AI_silver_pending_expert_review or expert_oef_gold=false extraction-stage metadata in canonical source records. Historical records are preserved, not rewritten.",
+  "not_asserted": "Expert approval of the dataset does not establish that paper-observed experiments are the unique or necessary-and-sufficient design for every hypothesis. No reviewer identities, signatures, dates or agreement coefficients are invented.",
+  "sample_inputs_and_reference_label_sets_changed": false
+}

@@ -1,0 +1,2 @@
+﻿task_id,precision,recall,f1,exact_match,jaccard,gold,predicted,missed,extra
+G19-0002,1.0,1.0,1.0,1,1.0,"[""M1"", ""M2""]","[""M1"", ""M2""]",[],[]

@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mineralexp-geotask19"
+version = "0.4.0"
+description = "277 source-grounded geoscience planning tasks with 19-label diagnostics"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["geotask19"]
